@@ -1,6 +1,7 @@
 {
   "name": "travel_advisor",
   "version": "0.1.0",
+  "homepage": "https://alteracc.github.io/traveladvisor/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
